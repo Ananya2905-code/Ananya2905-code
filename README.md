@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akumi
+# Hi 👋, I'm Ananya
 
 ### Student |  Programmer | Artist
 
