@@ -1,4 +1,4 @@
-i# Hi 👋, I'm Ananya
+Hi 👋, I'm Ananya
 
 ### Student |  Programmer | Artist
 
