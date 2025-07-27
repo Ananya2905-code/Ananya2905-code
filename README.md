@@ -28,6 +28,6 @@ i# Hi 👋, I'm Ananya
 **Tools & Platforms**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-##🌐 Let's Connect 
+## 🌐 Let's Connect 
 
   <a href="https://discord.com/users/silen_kuro29"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
