@@ -31,3 +31,5 @@ Hi 👋, I'm Ananya
 ## 🌐 Let's Connect 
 
   <a href="https://discord.com/users/silen_kuro29"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<a herf="pkumar4920@gmail.com"><img src="https://img.shields.io/badge/email-example%40domain.com-blue?style=flat&logo=gmail"/>
